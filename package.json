@@ -1,6 +1,6 @@
 {
   "name": "gw2-chat-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encode and decode guildwars2 chat codes, fork from gw2e-chat-codes",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "gw2e-chat-codes": "^1.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/gw2-chat-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bluelovers/gw2-chat-code/issues"
+  },
+  "homepage": "https://github.com/bluelovers/gw2-chat-code#readme"
 }
