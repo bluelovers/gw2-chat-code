@@ -1,7 +1,7 @@
 {
   "name": "gw2-chat-code",
   "version": "1.0.0",
-  "description": "fork from gw2e-chat-codes",
+  "description": "Encode and decode guildwars2 chat codes, fork from gw2e-chat-codes",
   "main": "index.js",
   "scripts": {
     "test": "npx mocha"
